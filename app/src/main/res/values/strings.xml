@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">8 Queens</string>
+    <string name="button_restart">Restart</string>
+    <string name="button_give_up">Give up</string>
+</resources>
